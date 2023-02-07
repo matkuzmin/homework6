@@ -26,7 +26,7 @@ for(int i = 1; i<11;i++){
     }
     public static void task4(){
         System.out.println("Задача 4");
-        for(int i = 0;i<17;i+=2){
+        for(int i = 10;i>-11;i--){
             System.out.println(i);
         }
     }
